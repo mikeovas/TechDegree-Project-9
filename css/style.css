@@ -1,10 +1,18 @@
 * {
     box-sizing: border-box;
 }
+.projectHeading {
+    text-align: center;
+    font-size: small;
+}
+
+.card-text {
+   text-align: center;
+}
 
 img {
     height: 275px;
-    width: 175px;
+    width: 100px;
     border: 1px solid navy;
     margin: 5px;
 }
