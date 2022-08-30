@@ -1,12 +1,29 @@
 * {
     box-sizing: border-box;
 }
+.webProjects {
+    margin: 5rem 2rem;
+}
+
+#projectsTitle {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: red;
+}
 .projectHeading {
     text-align: center;
     font-size: small;
 }
 
+.card {
+    border: 2px solid rgba(60, 60, 152, 0.75);
+}
 
+.card-title {
+    color: navy;
+    text-align: center;
+    text-decoration: underline;
+}
 .card-text {
    text-align: center;
 }
@@ -17,7 +34,7 @@
     padding: 1%;
 }
 img {
-    border: 2px solid navy;
+    border: 2px solid skyblue;
 }
 footer {
     margin-top: 5rem;
