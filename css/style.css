@@ -11,11 +11,11 @@
    text-align: center;
 }
 
-/* web-image {
+.web-image {
     height: 275px;
-    width: 100px;
-    margin: 5px;
-} */
+    width: 100%;
+    padding: 1%;
+}
 img {
     border: 2px solid navy;
 }
