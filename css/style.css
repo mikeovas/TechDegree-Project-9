@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    height: 275px;
+    border: 1px solid navy;
+    margin: 5px;
+}
