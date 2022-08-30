@@ -6,13 +6,19 @@
     font-size: small;
 }
 
+
 .card-text {
    text-align: center;
 }
 
-img {
+/* web-image {
     height: 275px;
     width: 100px;
-    border: 1px solid navy;
     margin: 5px;
+} */
+img {
+    border: 2px solid navy;
+}
+footer {
+    margin-top: 5rem;
 }
