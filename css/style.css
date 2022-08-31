@@ -24,6 +24,7 @@ body {
 
 .card {
     border: 2px solid rgba(60, 60, 152, 0.75);
+    background-color: rgb(240, 232, 246);
 }
 
 .card-title,
@@ -31,18 +32,20 @@ body {
     color: navy;
     text-align: center;
     text-decoration: underline;
+    height: 4rem;
 }
 .card-text {
    text-align: center;
 }
 
 .web-image {
-    height: 275px;
+    height: 200px;
     width: 100%;
     padding: 1%;
 }
 img {
     border: 2px solid skyblue;
+    margin-top: -5%;
 }
 
 .card img:hover {
