@@ -23,7 +23,8 @@
     border: 2px solid rgba(60, 60, 152, 0.75);
 }
 
-.card-title {
+.card-title,
+.aboutme {
     color: navy;
     text-align: center;
     text-decoration: underline;
