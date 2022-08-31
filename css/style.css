@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+body {
+    background-color: rgb(251, 250, 247);
+}
 .mikePic {
     border-radius: 50%;
     border: 2px solid skyblue;
