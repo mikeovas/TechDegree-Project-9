@@ -1,15 +1,19 @@
 * {
     box-sizing: border-box;
 }
+.mikePic {
+    border-radius: 50%;
+    border: 2px solid skyblue;
+    width: 10rem;
+    height: 10rem;
+    display: block;
+    margin: 0 auto;
+}
+
 .webProjects {
     margin: 5rem 2rem;
 }
 
-#projectsTitle {
-    margin-bottom: 0;
-    padding-bottom: 0;
-    color: red;
-}
 .projectHeading {
     text-align: center;
     font-size: small;
@@ -36,6 +40,11 @@
 img {
     border: 2px solid skyblue;
 }
+
+.card img:hover {
+    transform: scale(1.1);
+}
+
 footer {
     margin-top: 5rem;
 }
