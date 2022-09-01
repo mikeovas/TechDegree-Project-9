@@ -7,8 +7,8 @@ body {
 .mikePic {
     border-radius: 50%;
     border: 2px solid skyblue;
-    width: 12rem;
-    height: 12rem;
+    width: 10rem;
+    height: 10rem;
     display: block;
     margin: 0 auto;
 }
@@ -54,6 +54,7 @@ img {
 
 footer {
     margin-top: 5rem;
+<<<<<<< HEAD
 }
 
 .social {
@@ -68,6 +69,8 @@ footer .row {
 }
 
 small {
-    margin-right: -50%;
+    font-size: 1rem;
     color: navy;
+=======
+>>>>>>> parent of 72304c5 (social media dropup button)
 }
