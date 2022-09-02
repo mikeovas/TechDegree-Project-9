@@ -66,9 +66,17 @@ footer {
     color: navy;
 }
 
-footer .row {
-    margin-left: 1%;
+footer .button {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 1.5rem;
 }
+footer .copyright {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1.5rem;
+}
+
 footer .btn {
     color: navy;
 }
